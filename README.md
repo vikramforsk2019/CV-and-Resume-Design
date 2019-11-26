@@ -1,5 +1,5 @@
 # CV/RESUME DESIGN
-Free admin dashboard template
+design a resume format by user
 
 # Preview
 CV/resume design format
