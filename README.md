@@ -5,51 +5,16 @@ design a resume format by user
 CV/resume design format
 
 # Overview
-Kiaalap is a full-featured, multipurpose, premium bootstrap admin template built with Bootstrap 4 Framework, HTML5, CSS and JQuery.
+Resume is job oriented and highlights your skills for that particular job. This makes it easy to scan through and get an idea of your skills.
 
-It is a fully responsive bootstrap admin template/bootstrap admin dashboard template that comes with a huge collection of reusable UI components & plugins.
-
-We believe we have covered everything you need to set up an All kind of website.If there is something that you would like to know then we are happy to help you out.
+CV represents a detailed chronological overview that lists out your career.
 
 # Template Features:
-
-- 50+ PAGES
-- VALID HTML5 & CSS3
-- MATERIAL DESIGN
-- RESPONSIVE LAYOUT
-- 3 HOME VERSIONS
-- NEAT, CLEAN AND SIMPLE DESIGN
-- CREATIVE AND MODERN DESIGN
-- BUILT BASED ON BOOTSTRAP 3+
-- FULLY RESPONSIVE
-- CROSS BROWSER OPTIMIZATION
-- WELL COMMENTED HTML & CSS FILES
-- GOOGLE FONTS
-- GOOGLE MAP
-- C3 AND D3 CHARTS
-- PLOT CHART
-- PEITY CHARTS
-- SPARKLINES
-- CHOSEN
-- CODEMIRROR
-- COLORPICKER
-- IMAGES CROPPER
-- DATA MAP
-- DATEPICKER
-- X-EDITABLE
-- DUAL LISTBOX
-- GOOGLE MAPS
-- ICHECK
-- RANGESLIDER
-- JVECTORMAP
-- KNOB
-- MAPAEL
-- PASSWORD METER
-- PDF VIEWER
-- TOUCHSPIN
-- JSTREE
-- LOBIBOX
-- SUMMERNOTE
+An example of good usage of the CV is in the academic industry
+, as it gives an exhaustive insight into where you currently stand in your career.
+This can help the academic institute make an assessment of your management skills, 
+subject knowledge and 
+your people skills can be suitable for a role as an educator & administrator, making you a suitable candidate for many roles.
 
 # Other resources:
 
