@@ -1,4 +1,4 @@
-# CV?RESUME DESIGN
+# CV/RESUME DESIGN
 Free admin dashboard template
 
 # Preview
