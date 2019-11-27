@@ -1,5 +1,5 @@
 # CV/RESUME DESIGN
-design a resume format by user
+design a resume format by user input like work a cv maker
 
 # Preview
 CV/resume design format
@@ -19,7 +19,7 @@ your people skills can be suitable for a role as an educator & administrator, ma
 # Other resources:
 
 - [www.roomseeker.in](https:/www.roomseeker.in/)
-- [Angular Dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
-- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
+- [Angular Dashboards](https://javatpoint.com/)
+- [Free Admin Dashboards](https://medium.com
 - [Website Templates](https://colorlib.com/wp/templates/)
-- [Free WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
+
