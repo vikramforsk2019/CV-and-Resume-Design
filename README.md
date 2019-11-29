@@ -21,6 +21,6 @@ your people skills can be suitable for a role as an educator & administrator, ma
 
 - [www.roomseeker.in](https:/www.roomseeker.in/)
 - [java script and jsp](https://javatpoint.com/)
-- [servlet](https://medium.com
+- https://medium.com
 - [Website Templates](https://colorlib.com/wp/templates/)
 
