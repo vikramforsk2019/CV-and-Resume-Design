@@ -18,7 +18,7 @@ subject knowledge and
 your people skills can be suitable for a role as an educator & administrator, making you a suitable candidate for many roles.
 
 # Other resources:
-
+https://medium.com/@vsg16492cse2016/design-a-resume-cv-format-by-using-a82438359ec2
 - [www.roomseeker.in](https:/www.roomseeker.in/)
 - [java script and jsp](https://javatpoint.com/)
 - https://medium.com
